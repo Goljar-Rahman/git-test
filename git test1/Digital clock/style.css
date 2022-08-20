@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: bisque;
+}
+h1 {
+  font-size: 44px;
+  text-align: center;
+}
+
+#clock {
+  font-size: 175px;
+  width: 950px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 250px;
+
+  text-align: center;
+  border: 3px solid black;
+  border-radius: 12px;
+}
